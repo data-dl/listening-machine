@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+listening-machine.html
+# raw Spotify exports never belong here
+my_spotify_data*/
+*.zip

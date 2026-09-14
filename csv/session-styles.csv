@@ -1,0 +1,5 @@
+﻿style,definition,sessions,share,median_streams,median_min
+Mixed,everything else,3066,51.8,15.0,52.0
+Exploration,at least half the streams are tracks in their first 30 days in your history,2017,34.1,12,40.4
+Deep dive,"one artist is at least 60% of the streams, eight or more, without looping",726,12.3,22.0,80.2
+Loop,"one recording is at least half the streams, and there are five or more",113,1.9,45,188.5
